@@ -2,7 +2,6 @@
 
 **Junior Penetration Tester** based in Accra, Ghana, building a career in offensive security from a non-traditional background (Philosophy & Political Science, University of Ghana).
 
-- 🔐 Currently training through **Inveteck Global's CyberLab** program
 - 🎓 **CEH** (EC-Council) and **CEH Practical** (Inveteck Global) certified
 - 📚 Completed a cybersecurity short course through **IPMC**, delivered in partnership with the **University of Greenwich**
 - 🛠️ Hands-on with web app pentesting, Active Directory, cloud (AWS) exploitation, and CTF-style boxes (VulnHub, HackTheBox, PwnTillDawn)
