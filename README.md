@@ -23,7 +23,23 @@
 
 #### 🧰 Tools & areas I work with
 
-`Nmap` `Burp Suite` `WPScan` `Hydra` `Metasploit` `CyberChef` `LinPEAS` `sqlmap` `AWS (AWSGoat)` `Active Directory`
+**Active Directory & Internal Networks**
+`BloodHound` `Kerberos abuse` `SMB/LDAP enumeration` `Chisel` `Proxychains` `Impacket`
+
+**Web Application Testing**
+`Burp Suite` `sqlmap` `WPScan` `Feroxbuster` `Wapiti`
+
+**Exploitation & Post-Exploitation**
+`Metasploit` `Hydra` `LinPEAS` `PwnKit` `Reverse shells / webshells`
+
+**Cloud Security**
+`AWS IAM privilege escalation` `ECS container breakout` `AWSGoat`
+
+**Forensics & Analysis**
+`Packet capture analysis` `Source code review` `CyberChef`
+
+**Recon**
+`Nmap` `Directory brute-forcing` `OSINT`
 
 #### 📫 Reach me
 
