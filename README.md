@@ -5,7 +5,7 @@
 - 🎓 **CEH** (EC-Council) and **CEH Practical** (Inveteck Global) certified
 - 📚 Completed a cybersecurity short course through **IPMC**, delivered in partnership with the **University of Greenwich**
 - 🛠️ Hands-on with web app pentesting, Active Directory, cloud (AWS) exploitation, and CTF-style boxes (VulnHub, HackTheBox, PwnTillDawn)
-- 📂 Documenting every engagement as a verifiable writeup — see [**homelabs**](https://github.com/oneDAY2033/homelabs) for the full portfolio
+- 📂 Documenting every engagement as a verifiable writeup — see [**homelabs**](https://github.com/oneDAY2033/homelabs) (CyberLab / self-directed engagements) and [**htb-machines**](https://github.com/oneDAY2033/htb-machines) (retired HackTheBox writeups) for the full portfolio
 - 🎯 Working toward a full-time role in ethical hacking / offensive security
 
 ---
@@ -14,6 +14,7 @@
 
 | Target | Summary |
 |---|---|
+| [Support (HTB)](https://github.com/oneDAY2033/htb-machines/blob/main/machines/support/README.md) | Anonymous SMB → .NET reverse engineering → BloodHound ACL abuse → RBCD → DCSync |
 | [Jenkins CI/CD](https://github.com/oneDAY2033/homelabs/tree/master/jenkins) | Anonymous FTP → leaked creds → Script Console RCE → SYSTEM |
 | [Maian Cart 3.8](https://github.com/oneDAY2033/homelabs/tree/master/maiancart) | Unauthenticated elFinder RCE (CVE-2021-32172) → SYSTEM |
 | [DeathNote (VulnHub)](https://github.com/oneDAY2033/homelabs/tree/master/deathnote-writeup) | WordPress plugin upload RCE → credential reuse → root |
